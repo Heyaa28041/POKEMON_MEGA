@@ -27,15 +27,20 @@ Mega Gengar,Yes
 Pikachu,No  
 Lucario,No  
 Mega Lucario,Yes 
+
 Answer: 
 STEP 1:
 Download and exract the zip file from github.
+
 STEP 2: 
 Download the dataset from kaggle and place it in the directory of the repositry and name it as Pokemon1.csv.
+
 Step 3:
 Install the libraries mentioned in the file or use the command pip install pandas scikit-learn matplotlib seaborn.
+
 Step 4:
 Run the Python Script after ensuring that the csv pokemon1 file and the python files are in the same path. 
+
 Step 5: 
 After running,, the script will save another csv file for predictions and open Confusion matrix, ROC curve, Precision-recall curve.
 Thank You
